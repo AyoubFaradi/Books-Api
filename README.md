@@ -1,6 +1,6 @@
-# 📚 Books API – Version 2
+# Books API – Version
 
-## 📌 Description
+## Description
 
 Books API est une API REST développée avec **Node.js, Express et MongoDB** permettant de gérer une base de données de livres.
 
@@ -16,7 +16,7 @@ Le projet suit l’architecture **MVC (Model – View – Controller)**.
 
 ---
 
-# 🛠️ Technologies utilisées
+# Technologies utilisées
 
 * Node.js
 * Express.js
@@ -27,7 +27,7 @@ Le projet suit l’architecture **MVC (Model – View – Controller)**.
 
 ---
 
-# 📁 Structure du projet
+# Structure du projet
 
 ```
 books-api
@@ -57,7 +57,7 @@ books-api
 ### 1️⃣ Cloner le projet
 
 ```bash
-git clone https://github.com/abdellatif-hub/Books-API.git
+git clone https://github.com/AyoubFaradi/Books-API.git
 ```
 
 ### 2️⃣ Installer les dépendances
@@ -91,7 +91,7 @@ http://localhost:3000
 
 # 🔗 Endpoints API
 
-## 📖 Books
+## Books
 
 ### 🔹 Get all books
 
@@ -99,10 +99,10 @@ http://localhost:3000
 GET /books
 ```
 
-📷 Screenshot :
+Screenshot :
 
 ```
-[INSERER SCREENSHOT ICI]
+<img width="1827" height="960" alt="image" src="https://github.com/user-attachments/assets/7425aea7-b2a8-45fc-915d-0b26e00f7c44" />
 ```
 
 ---
@@ -113,10 +113,10 @@ GET /books
 GET /books/:id
 ```
 
-📷 Screenshot :
+Screenshot :
 
 ```
-[INSERER SCREENSHOT ICI]
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/05218238-e66d-4154-8470-7193e5556ccf" />
 ```
 
 ---
@@ -131,17 +131,17 @@ Body :
 
 ```json
 {
-"title": "Clean Code",
-"author": "Robert Martin",
-"price": 40,
+"title": "React Js",
+"author": "Abderahman gamal",
+"price": 220,
 "category": "Programming"
 }
 ```
 
-📷 Screenshot :
+Screenshot :
 
 ```
-[INSERER SCREENSHOT ICI]
+<img width="1828" height="971" alt="image" src="https://github.com/user-attachments/assets/a8ef3413-7258-41a4-bdee-ef32b6bc7a74" />
 ```
 
 ---
@@ -152,10 +152,10 @@ Body :
 PUT /books/:id
 ```
 
-📷 Screenshot :
+Screenshot :
 
 ```
-[INSERER SCREENSHOT ICI]
+<img width="1831" height="971" alt="image" src="https://github.com/user-attachments/assets/cd1a11b3-3e73-4425-a6ca-103edd60c9b7" />
 ```
 
 ---
@@ -166,15 +166,15 @@ PUT /books/:id
 DELETE /books/:id
 ```
 
-📷 Screenshot :
+Screenshot :
 
 ```
-[INSERER SCREENSHOT ICI]
+<img width="1833" height="973" alt="image" src="https://github.com/user-attachments/assets/835de94b-5fc0-493a-841e-92ee75f961a1" />
 ```
 
 ---
 
-# 🗄️ Base de données MongoDB
+# Base de données MongoDB
 
 Nom de la base :
 
@@ -188,10 +188,10 @@ Collection :
 books
 ```
 
-📷 Screenshot MongoDB Compass :
+Screenshot MongoDB Compass :
 
 ```
-[INSERER SCREENSHOT BASE DE DONNEES]
+<img width="1771" height="1007" alt="image" src="https://github.com/user-attachments/assets/5e899db6-d516-43e1-91a9-5056e32b013f" />
 ```
 
 ---
@@ -203,12 +203,6 @@ Les tests peuvent être réalisés avec :
 * Postman
 * Thunder Client (VS Code)
 * curl
-
-📷 Screenshot Postman :
-
-```
-[INSERER SCREENSHOT TEST API]
-```
 
 ---
 
