@@ -1,4 +1,4 @@
-# Books API – Version
+# Books API 
 
 ## Description
 
