@@ -101,9 +101,8 @@ GET /books
 
 Screenshot :
 
-```
+
 <img width="1827" height="960" alt="image" src="https://github.com/user-attachments/assets/7425aea7-b2a8-45fc-915d-0b26e00f7c44" />
-```
 
 ---
 
@@ -115,9 +114,9 @@ GET /books/:id
 
 Screenshot :
 
-```
+
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/05218238-e66d-4154-8470-7193e5556ccf" />
-```
+
 
 ---
 
@@ -140,9 +139,9 @@ Body :
 
 Screenshot :
 
-```
+
 <img width="1828" height="971" alt="image" src="https://github.com/user-attachments/assets/a8ef3413-7258-41a4-bdee-ef32b6bc7a74" />
-```
+
 
 ---
 
@@ -154,9 +153,9 @@ PUT /books/:id
 
 Screenshot :
 
-```
+
 <img width="1831" height="971" alt="image" src="https://github.com/user-attachments/assets/cd1a11b3-3e73-4425-a6ca-103edd60c9b7" />
-```
+
 
 ---
 
@@ -168,9 +167,9 @@ DELETE /books/:id
 
 Screenshot :
 
-```
+
 <img width="1833" height="973" alt="image" src="https://github.com/user-attachments/assets/835de94b-5fc0-493a-841e-92ee75f961a1" />
-```
+
 
 ---
 
@@ -190,9 +189,9 @@ books
 
 Screenshot MongoDB Compass :
 
-```
+
 <img width="1771" height="1007" alt="image" src="https://github.com/user-attachments/assets/5e899db6-d516-43e1-91a9-5056e32b013f" />
-```
+
 
 ---
 
